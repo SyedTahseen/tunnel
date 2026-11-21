@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple shield outline, centered, standing in for a real app icon -->
+    <path
+        android:fillColor="#4B6EF5"
+        android:pathData="M54,20 L80,30 V54 C80,72 68,84 54,90 C40,84 28,72 28,54 V30 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,30 L72,37 V54 C72,67 64,76 54,81 C44,76 36,67 36,54 V37 Z" />
+</vector>
